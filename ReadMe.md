@@ -2,7 +2,6 @@ MainStore is better than SideStore.
 
 This project is licensed under ARR.
 
-<iframe srcdoc='
 <!DOCTYPE html>
 <html lang="en">
 
@@ -96,4 +95,4 @@ This project is licensed under ARR.
     </footer>
 </body>
 
-</html>' width="100%" height="600px"></iframe>
+</html>
